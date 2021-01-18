@@ -1,0 +1,274 @@
+
+#E01CLNT002
+
+#EDIMANAGER
+
+#Mail_SSCDO_MRS_T
+
+#E41CLNT009
+
+#P21CLNT021_FILE
+
+#EBA_TCG_E
+
+#MAIL_MLP
+
+#TDE_PTG_Q
+
+#T62CLNT010
+
+#Q41CLNT017
+
+#File_T
+
+#TEL_TCG_Q
+
+#ERP_TCG_File
+
+#Q01CLNT002
+
+#TDE_PTG_E
+
+#Mail_SSCDO_MRS
+
+#ERP_SMRS_Q
+
+#D14CLNT121
+
+#SFTP
+
+	SFTP_Snd_PRICELIST_DATA
+		serverhost                    :hgesftp.sz.salzgitter-ag.de
+
+	SFTP_Rcv_SMNL_Bestand
+		serverhost                    :hgesftp.sz.salzgitter-ag.de
+
+	SFTP_Snd_ORDERS_SO_PTG
+		serverhost                    :172.31.85.44
+
+	SFTP_Rcv_SMSA_Bestand
+		serverhost                    :hgesftp.sz.salzgitter-ag.de
+
+	SFTP_Snd_DEBITOR_DATA
+		serverhost                    :hgesftp.sz.salzgitter-ag.de
+
+	SFTP_Rcv_Hydro
+		serverhost                    :gw1-ftp.po.salzgitter-ag-test.de
+
+	SFTP_Snd_PARTNERADRESSDATA
+		serverhost                    :hgesftp.sz.salzgitter-ag.de
+
+	SFTP_Snd_STOCKLIST_DATA
+		serverhost                    :hgesftp.sz.salzgitter-ag.de
+
+	SFTP_Rcv_SMNL_PRICELIST
+		serverhost                    :hgesftp.sz.salzgitter-ag.de
+
+	SFTP_Rcv_GS_via_PROXY
+		serverhost                    :192.168.252.21
+
+	SFTP_Rcv_Stocklist_CSV_SMHD
+		serverhost                    :hgestftp.sz.salzgitter-ag.de
+
+	SFTP_Rcv_Bestand
+		serverhost                    :hgestftp.sz.salzgitter-ag.de
+
+	SFTP_Rcv_ORDRSP96B_PTG
+		serverhost                    :172.31.85.44
+
+	SFTP_Rcv_SalesOrder
+		serverhost                    :hgesftp.sz.salzgitter-ag.de
+
+#FILE_SZFG
+
+#ERP_VIM_Q
+
+#EM4CLNT070
+
+#BC_FBG_FUTURA
+
+#Q41CLNT009
+
+#AS2
+
+#AD_TCG_Q
+
+#EIS_TCG_E
+
+#HRCLOUDSF_SZS_E
+
+#AD_TCG_E
+
+#MAIL_MPTDE
+
+#EIS_TCG_Q
+
+#Q41CLNT037
+
+#MAIL_SZS
+
+#FILE
+
+#TEL_TCG_E
+
+#Q75CLNT045
+
+#Q81CLNT021
+
+#MAIL_MPE
+
+#E41CLNT017
+
+#MM4CLNT070
+
+#Elster_HCM
+
+#E21CLNT100
+
+#ZeugnisArchiv_UES_T
+
+#ZeugnisArchiv_UES_Q
+
+#Mail_P21CLNT021
+
+#BC_FBG_FUTURA_T
+
+#SFTP_T
+
+	SFTP_Snd_STOCKLIST_DATA_T
+		serverhost                    :hgesftp.sz.salzgitter-ag.de
+
+#BEOSYS_DMU_E
+
+#OFTP2
+
+#SMS_PPS
+
+	SFTP_Rcv_VDA4905_SMS
+		serverhost                    :hgesftp.sz.salzgitter-ag.de
+
+#WebShopMagento_DMU_Q
+
+#FTP_Service
+
+#WebShopMagento_DMU_E
+
+#MAIL_SZFG
+
+#Q24CLNT002
+
+#K61CLNT010
+
+#MAIL_MPTFR
+
+#E24CLNT011
+
+#MAIL
+
+#E21CLNT021_FILE
+
+#E31CLNT031
+
+#Q62CLNT010
+
+#T14CLNT021
+
+#File_Service
+
+#MAIL_SMLP
+
+#Q61CLNT010
+
+#E17CLNT075
+
+#E75CLNT045
+
+#ETCCLNT011
+
+#ETBCLNT011
+
+#V61CLNT800
+
+#FileService
+
+#HTTP
+
+#Q31CLNT031
+
+#SOAP
+
+#Q85CLNT601
+
+#MAIL_SZMF
+
+#MAIL_SMP
+
+#Q17CLNT075
+
+#OFTP
+
+#MAIL_GESIS
+
+#EDISPEPERATOR
+
+#File
+
+#Q21CLNT021
+
+#FILE_T
+
+#EQCCLNT011
+
+#QM4CLNT070
+
+#HYBRIS_SMHD_Q
+
+#SFTP_ENDTEBRUECK
+
+#FTP_Service_T
+
+#SFTP_ROSTOCK
+
+#E14CLNT016
+
+#HYBRIS_SMHD_E
+
+#E85CLNT601
+
+#OT_CS_Q
+
+#ERP_TCG_E
+
+#QS4CLNT010
+
+#EB2CLNT010
+
+#ES4CLNT010
+
+#WAAGE_DMU_Q
+
+#EDISEP
+
+#ERP_TCG_Q
+
+#X400
+
+#Q24CLNT011
+
+#E17CLNT127
+
+#WAAGE_DMU_E
+
+#E24CLNT002
+
+#BEOSYS_DMU_Q
+
+#E61CLNT010
+
+#Mail_E21CLNT021
+
+#Q71CLNT001
+
+#E21CLNT021
+
+#API
