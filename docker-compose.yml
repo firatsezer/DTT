@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  swisspost:
+    image: firatsezer/swisspost:latest
+    container_name: swisspost
+    network_mode: bridge
+    ports:
+      - "9090:9090"
+    environment:
+      REST_ENDPOINT_URL: "https://requestinspector.com/inspect/01eytccday06d32a2tynrq4pdg"
+      KAFKA_BOOTSTRAP_SERVERS: "192.168.1.2:9092"
+      KAFKA_GROUP_ID: "groupID"
+      KAFKA_TOPICS: "dummy"
+      CRON_JOB: "0 0 22 * * MON-FRI"
+      TIMEZONE: "Europe/Istanbul"
+      POST_TIME_OUT: 60
+      DATABASE_USERNAME: "admin"
+      DATABASE_PASSWORD: "admin"
