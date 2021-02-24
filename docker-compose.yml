@@ -2,7 +2,7 @@ version: '3'
 
 services:
   swisspost:
-    image: firatsezer/swisspost:latest
+    image: erkanisik/swisspost:latest
     container_name: swisspost
     network_mode: bridge
     ports:
